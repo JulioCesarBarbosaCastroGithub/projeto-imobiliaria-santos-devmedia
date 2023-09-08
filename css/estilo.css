@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: Tahoma;  
+}
+
+div {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+div p {
+    margin: 10px auto;
+
+}
